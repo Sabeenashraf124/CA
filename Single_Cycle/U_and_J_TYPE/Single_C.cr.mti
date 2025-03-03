@@ -1,0 +1,103 @@
+C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/datapath.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/datapath.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/d_mem_ls.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/d_mem_ls.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package d_mem_ls_sv_unit
+-- Compiling module d_mem_ls
+
+Top level modules:
+	d_mem_ls
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/wa_ba_mem.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/wa_ba_mem.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module wa_ba_mem
+
+Top level modules:
+	wa_ba_mem
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/alu.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/alu.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package alu_sv_unit
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/rv_dec.svh {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/rv_dec.svh
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/imm_gen.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/imm_gen.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package imm_gen_sv_unit
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/mux_2x1.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/mux_2x1.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mux_2x1
+
+Top level modules:
+	mux_2x1
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/mux_4x1.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/mux_4x1.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mux_4x1
+
+Top level modules:
+	mux_4x1
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/risc_tb.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/risc_tb.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module risc_tb
+
+Top level modules:
+	risc_tb
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/reg_32bit_16.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/reg_32bit_16.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module reg_32bit_16
+
+Top level modules:
+	reg_32bit_16
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/coun_32bit.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/coun_32bit.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module coun_32bit
+
+Top level modules:
+	coun_32bit
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/rv_inst_decoder.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/rv_inst_decoder.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package rv_inst_decoder_sv_unit
+-- Compiling module rv_inst_decoder
+
+Top level modules:
+	rv_inst_decoder
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/mux_special.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/mux_special.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mux_special
+
+Top level modules:
+	mux_special
+
+} {} {}} C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/branch_handler.sv {1 {vlog -work work_1 -vopt -sv -stats=none C:/Users/uet/Downloads/Single_Cycle/U_and_J_TYPE/branch_handler.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package branch_handler_sv_unit
+-- Compiling module branch_handler
+
+Top level modules:
+	branch_handler
+
+} {} {}}
