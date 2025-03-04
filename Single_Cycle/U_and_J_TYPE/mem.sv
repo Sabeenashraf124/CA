@@ -1,4 +1,4 @@
-module wa_ba_mem(
+module mem(
     //input clk, write_en,
     input [10:0] address,
     //input [7:0] data_in,
